@@ -1,3 +1,8 @@
+# Astronova — Commercial LEO Insights
+
+Live: https://www.astronova.earth
+Repo: https://github.com/Hamzaslam1996/astronova
+
 # Welcome to your Lovable project
 
 ## Project info
