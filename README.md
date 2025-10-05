@@ -1,78 +1,29 @@
-# Astronova — Commercial LEO Insights
+🌌 Astronova — Empowering Space Entrepreneurship
 
-Live: https://www.astronova.earth
-Repo: https://github.com/Hamzaslam1996/astronova
+Live URL: https://www.astronova.earth
 
-# Welcome to your Lovable project
+🛰️ Overview
+Astronova is a live, data-driven prototype built for the NASA Space Apps Challenge 2025 — Commercializing Low Earth Orbit (LEO).
 
-## Project info
+It provides decision-grade intelligence for the post-ISS commercial era, merging open NASA, CelesTrak, and Launch Library datasets into one interactive dashboard.
+Our mission: to democratize access to LEO opportunities by lowering information barriers for entrepreneurs, agencies, and investors — advancing NASA’s vision for a sustainable, multi-stakeholder orbital economy by 2030.
 
-**URL**: https://lovable.dev/projects/9671a9cb-593b-40db-950f-b4f2917cf316
+🧠 Features
 
-## How can I edit this code?
+📡 Real-time orbital and launch data (NASA + partner APIs)
+⚡ LEO market insights and sustainability scoring
+🤖 “NovaCopilot” — AI-assisted policy and data query engine
+🧭 Multi-role dashboards for entrepreneurs, investors, and agencies
+🔒 Built-in Supabase functions for data aggregation and edge caching
+🧰 Technologies
 
-There are several ways of editing your application.
+Stack	Details
+Frontend	React + TypeScript (Vite)
+Styling	Tailwind CSS + shadcn/ui
+Backend	Supabase Edge Functions
+Deployment	Google Cloud Run via Lovable
+Data Sources	NASA DONKI CME, ISS Now, Launch Library 2, CelesTrak Active Satellites
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/9671a9cb-593b-40db-950f-b4f2917cf316) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9671a9cb-593b-40db-950f-b4f2917cf316) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📜 License
+This project is open-sourced under the MIT License.
+© 2025 Astronova Enterprise - Built for NASA Space Apps Challenge 2025.
