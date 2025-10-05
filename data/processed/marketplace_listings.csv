@@ -1,0 +1,6 @@
+sku_id,name,type,operator,capacity_unit,price_usd,availability_qtr,lead_time_weeks,status
+SKU-DATA-10,Data Stream (10GB),data_access,ISS/NASA (open),10GB,2500,now,0,available
+SKU-LAB-2H,Lab-Hour Pack (2h),microgravity_research,Orbit Hub Partners,2h,12000,2025-Q4,6,available
+SKU-ADD-3D,Zero-G Additive Manufacturing Test,microgravity_fabrication,Redwire (sim),per_run,20000,2025-Q4,10,available
+SKU-VAL-ORBIT,On-Orbit Validation Package,qualification,Station Partner (sim),per_campaign,45000,2026-Q1,8,available
+SKU-HOST-1U,Hosted Sensor (1U, 90d),hosted_payload,Axiom (sim),1U,90000,2026-Q1,12,available

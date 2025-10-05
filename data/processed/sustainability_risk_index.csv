@@ -1,0 +1,6 @@
+altitude_band_km,objects_in_band,bandwidth_km,object_density_index,risk_score,guidance_link
+300-350,120,50,2.40,35,https://www.nasa.gov/directives
+500-550,210,50,4.20,45,https://www.nasa.gov/directives
+450-500,310,50,6.20,60,https://www.nasa.gov/directives
+350-400,380,50,7.60,65,https://www.nasa.gov/directives
+400-450,620,50,12.40,80,https://www.nasa.gov/directives

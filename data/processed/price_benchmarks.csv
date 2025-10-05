@@ -1,0 +1,6 @@
+service_type,low_estimate,high_estimate,citation,notes,avg_price
+Data Stream (10GB),1000,5000,"Open-data curation","Curation value-dependent",3000
+Zero-G Additive Manufacturing Test,10000,25000,"Public demos/program pricing","Part scan + properties report",17500
+Lab-Hour (2h),8000,15000,"Indicative; public micro-g programs","Includes ops & data return",11500
+CubeSat Deploy (per U),40000,100000,"Rideshare market ranges","Incl deployer & ops",70000
+Hosted Sensor (1U,90d),60000,150000,"Hosted payload ranges","Power/data constraints apply",105000

@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Astronova Space Theme - #070B16, #0E1525, #5E5BFF, #32D9FA */
+    --deep-navy: 221 52% 7%;        /* #070B16 */
+    --dark-navy: 220 43% 11%;       /* #0E1525 */
+    --violet: 242 100% 68%;         /* #5E5BFF */
+    --ion-blue: 191 96% 59%;        /* #32D9FA */
+    --soft-gray: 210 17% 78%;       /* #B8C1CC */
+    
+    --background: var(--deep-navy);
+    --foreground: 0 0% 100%;
+    
+    --card: var(--dark-navy);
+    --card-foreground: 0 0% 100%;
+    
+    --popover: var(--dark-navy);
+    --popover-foreground: 0 0% 100%;
+    
+    --primary: var(--violet);
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: var(--ion-blue);
+    --secondary-foreground: var(--deep-navy);
+    
+    --muted: var(--soft-gray);
+    --muted-foreground: var(--soft-gray);
+    
+    --accent: var(--violet);
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 220 43% 15%;
+    --input: 220 43% 15%;
+    --ring: var(--violet);
+    
+    --radius: 0.75rem;
+    
+    --sidebar-background: var(--dark-navy);
+    --sidebar-foreground: var(--soft-gray);
+    --sidebar-primary: var(--ion-blue);
+    --sidebar-primary-foreground: var(--deep-navy);
+    --sidebar-accent: 220 43% 15%;
+    --sidebar-accent-foreground: var(--ion-blue);
+    --sidebar-border: 220 43% 15%;
+    --sidebar-ring: var(--ion-blue);
+    
+    --chart-1: var(--ion-blue);
+    --chart-2: var(--violet);
+    --chart-3: 280 100% 70%;
+    --chart-4: 340 80% 60%;
+    --chart-5: 45 100% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    background: hsl(var(--deep-navy));
+    min-height: 100vh;
+  }
+
+  .glass-card {
+    background: rgba(14, 21, 37, 0.4);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 1rem;
+  }
+
+  .btn-ghost {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    color: #fff;
+  }
+
+  a {
+    color: hsl(var(--accent));
+  }
+}
+
+@layer utilities {
+  .glow-primary {
+    box-shadow: 0 0 30px hsl(var(--violet) / 0.4);
+  }
+  
+  .glow-secondary {
+    box-shadow: 0 0 20px hsl(var(--ion-blue) / 0.3);
+  }
+  
+  .gradient-hero {
+    background: linear-gradient(135deg, hsl(var(--deep-navy)) 0%, hsl(221 52% 12%) 50%, hsl(242 100% 68% / 0.15) 100%);
+  }
+}

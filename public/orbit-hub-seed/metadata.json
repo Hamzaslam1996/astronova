@@ -1,0 +1,17 @@
+{
+  "project": "Orbit Hub (Seed)",
+  "inspired_by": "NASA Space Apps Challenge 2025",
+  "description": "Open community platform extending Astronova to accelerate LEO commercialization.",
+  "data_sources": [
+    "NASA Open APIs",
+    "CelesTrak Satellite Database",
+    "Launch Library 2",
+    "The Space Devs"
+  ],
+  "license": {
+    "code": "MIT",
+    "docs": "CC BY 4.0"
+  },
+  "maintainers": ["Astronova Team"],
+  "contact": "team@astronova.earth"
+}

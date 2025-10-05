@@ -1,0 +1,6 @@
+norad_id,name,operator,purpose,altitude_km,inclination_deg,status
+47001,PLANET-SKYSAT-21,Planet Labs,Earth observation,450,97.5,active
+51000,STARLINK-5100,SpaceX,Comms broadband,550,53,active
+60001,LEO-DEMO-SAT-1 (sim),StartupX,Tech demo,520,97.4,active
+70000,AXIOM-MOD-1 (sim),Axiom Space,Space station module,420,51.6,planned
+25544,ISS (ZARYA),International Partners,Space station,420,51.6,active

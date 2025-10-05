@@ -1,0 +1,264 @@
+[
+  {
+    "activityID": "2025-10-03T18:36:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-10-03T18:36Z",
+    "sourceLocation": "N15W45",
+    "activeRegionNum": 13845,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29234/-1",
+    "note": "Bright CME seen in SOHO LASCO C2/C3. Associated with M2.4 flare from AR 13845.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C3"
+      },
+      {
+        "displayName": "STEREO A: COR2"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-10-04T02:15Z",
+        "latitude": 15.0,
+        "longitude": -45.0,
+        "halfAngle": 38.0,
+        "speed": 720.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29234/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-10-02T12:24:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-10-02T12:24Z",
+    "sourceLocation": "S08E23",
+    "activeRegionNum": 13842,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29228/-1",
+    "note": "Asymmetric halo CME observed in SOHO LASCO C2. Associated with C9.1 flare.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C3"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-10-02T18:30Z",
+        "latitude": -8.0,
+        "longitude": 23.0,
+        "halfAngle": 42.0,
+        "speed": 580.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29228/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-10-01T08:12:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-10-01T08:12Z",
+    "sourceLocation": "N22W78",
+    "activeRegionNum": 13839,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29218/-1",
+    "note": "Narrow CME detected in STEREO A COR2. Speed moderate.",
+    "instruments": [
+      {
+        "displayName": "STEREO A: COR2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C2"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-10-01T14:45Z",
+        "latitude": 22.0,
+        "longitude": -78.0,
+        "halfAngle": 28.0,
+        "speed": 450.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29218/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-09-30T22:48:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-09-30T22:48Z",
+    "sourceLocation": "S12W15",
+    "activeRegionNum": 13838,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29212/-1",
+    "note": "Fast halo CME observed. Possible Earth-directed component.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C3"
+      },
+      {
+        "displayName": "STEREO A: COR2"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-10-01T06:12Z",
+        "latitude": -12.0,
+        "longitude": -15.0,
+        "halfAngle": 55.0,
+        "speed": 890.0,
+        "type": "H",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29212/1",
+        "enlilList": [
+          {
+            "modelCompletionTime": "2025-10-01T10:23Z",
+            "estimatedShockArrivalTime": "2025-10-03T14:30Z",
+            "estimatedDuration": "18 hours",
+            "rmin_re": "6.2",
+            "kp_18": "6.0",
+            "kp_90": "7.5",
+            "kp_135": "5.0",
+            "kp_180": "3.5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "activityID": "2025-09-29T15:36:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-09-29T15:36Z",
+    "sourceLocation": "N18E34",
+    "activeRegionNum": 13836,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29204/-1",
+    "note": "Slow CME visible in multiple coronagraphs.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C2"
+      },
+      {
+        "displayName": "STEREO A: COR2"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-09-29T22:18Z",
+        "latitude": 18.0,
+        "longitude": 34.0,
+        "halfAngle": 32.0,
+        "speed": 380.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29204/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-09-28T09:24:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-09-28T09:24Z",
+    "sourceLocation": "S25W62",
+    "activeRegionNum": 13833,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29196/-1",
+    "note": "Moderately fast CME with asymmetric structure.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C3"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-09-28T16:45Z",
+        "latitude": -25.0,
+        "longitude": -62.0,
+        "halfAngle": 36.0,
+        "speed": 620.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29196/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-09-27T19:12:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-09-27T19:12Z",
+    "sourceLocation": "N10E56",
+    "activeRegionNum": 13831,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29188/-1",
+    "note": "Faint CME detected in LASCO C3 imagery.",
+    "instruments": [
+      {
+        "displayName": "SOHO: LASCO/C3"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-09-28T02:36Z",
+        "latitude": 10.0,
+        "longitude": 56.0,
+        "halfAngle": 24.0,
+        "speed": 410.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29188/1",
+        "enlilList": null
+      }
+    ]
+  },
+  {
+    "activityID": "2025-09-26T14:48:00-CME-001",
+    "catalog": "M2M_CATALOG",
+    "startTime": "2025-09-26T14:48Z",
+    "sourceLocation": "S16W89",
+    "activeRegionNum": 13828,
+    "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29180/-1",
+    "note": "Backside CME observed from limb perspective.",
+    "instruments": [
+      {
+        "displayName": "STEREO A: COR2"
+      },
+      {
+        "displayName": "SOHO: LASCO/C2"
+      }
+    ],
+    "cmeAnalyses": [
+      {
+        "time21_5": "2025-09-26T21:24Z",
+        "latitude": -16.0,
+        "longitude": -89.0,
+        "halfAngle": 30.0,
+        "speed": 495.0,
+        "type": "S",
+        "isMostAccurate": true,
+        "levelOfData": 0,
+        "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/29180/1",
+        "enlilList": null
+      }
+    ]
+  }
+]

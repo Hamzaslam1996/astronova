@@ -1,0 +1,13 @@
+project_id = "lnkfrqaguykoeunevdgx"
+
+[functions.launches-proxy]
+verify_jwt = false
+
+[functions.celestrak-active]
+verify_jwt = false
+
+[functions.donki-cme]
+verify_jwt = false
+
+[functions.iss-now]
+verify_jwt = false

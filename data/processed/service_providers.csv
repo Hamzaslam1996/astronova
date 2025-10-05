@@ -1,0 +1,11 @@
+name,category,country,url,status
+LeoLabs,data,US,https://leolabs.space,operational
+Marsh,insurance,Global,https://www.marsh.com,available via broker
+Redwire (Made In Space),manufacturing,US,https://redwirespace.com,operational
+Northrop Grumman,logistics,US,https://www.northropgrumman.com,operational
+Axiom Space,station,US,https://www.axiomspace.com,operational (modules planned)
+Sierra Space,station,US,https://www.sierraspace.com,development
+Voyager/Nanoracks,station,US,https://nanoracks.com,operational (ISS services)
+Space Tango,micro-labs,US,https://spacetango.com,operational
+SpaceX,launch,US,https://www.spacex.com,operational
+Rocket Lab,launch,US/NZ,https://www.rocketlabusa.com,operational
